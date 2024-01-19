@@ -4,7 +4,7 @@
 
 # I have used Visual Studio code Editors with Git and publishesd in Github.
 
-# I have Hostinger server and using Titan e-mail service for my business.
+# I have Hostinger server to Deploy my site and using Titan e-mail service for my business.
 
 # krishinetwork.asia is already in live from last year but i am doing it myself again.
 
