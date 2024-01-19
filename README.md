@@ -16,4 +16,6 @@
 
 # For Logo Design , I have used Canva.
 
+# Have used and learn from Code Institute Notes, You tube video for Primary Research. 
+
 # Purpose: The purpose of Krishi Network is to provide connections between different roles in the Bangladesh agriculture industry. As the farmers are not getting a fair price for their goods because of contractors. This website removes the requirement of contractors for farmers. Farmers can buy their required needs for farming from Sellers and they can also sell their products to the Consumers directly without the interference of Contractor/middleman.
