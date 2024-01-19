@@ -1,4 +1,4 @@
-# My name is Hossain Masud and I am devolipng this website for myself to launch for a real world business static site in Bangladesh.
+# My name is Hossain Masud and I am developing this website for myself to launch for a real world business static site in Bangladesh.
 
 # This is my first Project-1 for my course by Code Institute,Ireland.
 
